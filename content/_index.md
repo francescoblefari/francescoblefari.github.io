@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My main research interests include Web Security and Exploitation, Log analysis and monitoring for anomaly detection, exploitation of GenAI technology for cybersecurity.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research has been published in international conferences such as ARES, ICWE, and ITASEC, with recent work exploring agent-based cyber defense, large language model vulnerabilities, and browser security.
+
+        I enjoy working at the intersection of academia, industry, and education building secure systems, sharing knowledge, and exploring how AI and automation can strengthen cyber defense.
     design:
       columns: '1'
   - block: collection

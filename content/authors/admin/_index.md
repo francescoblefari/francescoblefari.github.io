@@ -3,7 +3,7 @@
 title: Francesco Blefari
 
 # Name pronunciation (optional)
-name_pronunciation: Francesco Blefari
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Francesco
@@ -31,40 +31,42 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:francesco.blefari@unical.it'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/francescoblefari
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/francescoblefari
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/francescoblefari
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/francescoblefari
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ojrHPy0AAAAJ&hl=it&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-2625-631X
 
 interests:
+  - Web Security
+  - Software Security
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Log Analysis
+  - Cyber Range
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: National PhD Program on Cybersecurity
+    institution: IMT School for Advanced Studies
+    date_start: 2022-12-01
+    date_end: 2026
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My main research interests include Web Security and Exploitation, Log analysis and monitoring for anomaly detection, exploitation of GenAI technology for cybersecurity. My supervisor is [Prof. Angelo Furfaro](https://angelo.furfaro.dimes.unical.it/)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Computer Engineer - Cybersecurity
+    institution: University of Calabria
+    date_start: 2020-10-01
+    date_end: 2022-10-18
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Engineer
+    institution: University of Calabria
+    date_start: 2017-10-01
+    date_end: 2020-12-10
     summary: |
       GPA: 3.4/4.0
       
@@ -114,7 +116,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -142,12 +144,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Italian
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,11 +186,5 @@ awards:
 I am a PhD student of the National Interest PhD Course in Cubersecurity at the IMT School for Advanced Studies Lucca and Department of Computer Science, Modeling, Electronic and System Engineering (DIMES) of the University of Calabria.
 
 During my Ph.D. , in 2024, I was a visiting researcher in Concordia Information Security Research (CISR) Lab, Concordia University, Montreal. Currently I'm visiting researcher in University of Bradford, United Kingdom.
-
-My main research interests include Web Security and Exploitation, Log analysis and monitoring for anomaly detection, exploitation of GenAI technology for cybersecurity.
-
-My research has been published in international conferences such as ARES, ICWE, and ITASEC, with recent work exploring agent-based cyber defense, large language model vulnerabilities, and browser security.
-
-I enjoy working at the intersection of academia, industry, and education building secure systems, sharing knowledge, and exploring how AI and automation can strengthen cyber defense.
 
 At the University of Calabria, I teach courses on Software Security and Engineering, focusing on topics like threat modeling, binary exploitation, software testing, and distributed systems with gRPC. I’m also involved in national training programs like CyberChallenge.IT, where I mentor students in hands-on cybersecurity.
