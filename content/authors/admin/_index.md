@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Francesco Blefari
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Francesco Blefari
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Francesco
+last_name: Blefari
 
 # Status emoji
 status:
@@ -183,4 +183,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student of the National Interest PhD Course in Cubersecurity at the IMT School for Advanced Studies Lucca and Department of Computer Science, Modeling, Electronic and System Engineering (DIMES) of the University of Calabria.
+During my Ph.D. , in 2024, I was a visiting researcher in Concordia Information Security Research (CISR) Lab, Concordia University, Montreal. Currently I'm visiting researcher in University of Bradford, United Kingdom.
+My main research interests include Web Security and Exploitation, Log analysis and monitoring for anomaly detection, exploitation of GenAI technology for cybersecurity.
+My research has been published in international conferences such as ARES, ICWE, and ITASEC, with recent work exploring agent-based cyber defense, large language model vulnerabilities, and browser security.
+I enjoy working at the intersection of academia, industry, and education building secure systems, sharing knowledge, and exploring how AI and automation can strengthen cyber defense.
+At the University of Calabria, I teach courses on Software Security and Engineering, focusing on topics like threat modeling, binary exploitation, software testing, and distributed systems with gRPC. I’m also involved in national training programs like CyberChallenge.IT, where I mentor students in hands-on cybersecurity.
