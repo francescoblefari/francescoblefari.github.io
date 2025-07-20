@@ -101,8 +101,8 @@ work:
     company_name: Relatech
     company_url: ''
     company_logo: ''
-    date_start: 2021-04
-    date_end: 2021-10
+    date_start: 2021-04-27
+    date_end: 2021-10-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
